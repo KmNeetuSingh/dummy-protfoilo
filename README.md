@@ -1,6 +1,6 @@
-# My Portfolio
+# Dummy Portfolio
 
-Welcome to my portfolio project! This project showcases my skills, experience, and projects I have worked on. Feel free to explore different sections of the portfolio to learn more about me.
+Welcome to my  dummy portfolio project! This project showcases my skills, experience, and projects I have worked on. Feel free to explore different sections of the portfolio to learn more about me.
 
 ## Table of Contents
 1. [Introduction](#introduction)
@@ -36,7 +36,4 @@ To run this project locally, follow these steps:
 ## Contributing
 Contributions are welcome! If you find any bugs or have suggestions for improvements, please open an issue or create a pull request. 
 
-## License
-This project is licensed under the [MIT License](LICENSE).
 
-# dummy-protfoilo
